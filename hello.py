@@ -1,1 +1,0 @@
-print("hello")print("RYETSUDYIFKULGIMHO%JPIHMGUKLFJY,htgfgjfhdfjgkhlkjhtdyftylkjtLGKUMHIL%OM")print("hello")for elem in "hello":    print(elem,end="")print("world")

@@ -1,0 +1,12 @@
+['MPN' 'Manufacturer' 'ADC Channels' 'ADC Resolution' 'CAN'
+ 'Core Architecture' 'Data Bus Width' 'Device Core' 'Ethernet' 'Family'
+ 'Family Name' 'I2C' 'I2S' 'Instruction Set Architecture' 'Interface Type'
+ 'Maximum CPU Frequency' 'Maximum Clock Rate'
+ 'Maximum Operating Supply Voltage' 'Maximum Operating Temperature'
+ 'Minimum Operating Supply Voltage' 'Minimum Operating Temperature'
+ 'Mounting' 'Number of ADCs' 'Number of Programmable I/Os'
+ 'Number of Timers' 'Operating Supply Voltage' 'PACKAGE_DIMENSION_H'
+ 'PACKAGE_DIMENSION_L' 'PACKAGE_DIMENSION_W' 'PCB' 'Pin count'
+ 'Program Memory Size' 'Program Memory Type' 'RAM Size' 'SPI'
+ 'Supplier_Package' 'Temperature Flag' 'Typical Operating Supply Voltage'
+ 'UART' 'USART' 'USB']
